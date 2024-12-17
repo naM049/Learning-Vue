@@ -25,7 +25,6 @@ const submitForm = () => {
 
 
 <template>
-  <h1>Form Validation</h1>
   <form class="custom-form" @submit.prevent="submitForm">
     <div class="form-group">
       <label for="">Name</label>

@@ -29,7 +29,6 @@ const previousTab = () => {
 </script>
 
 <template>
-  <h1>Progress Steps</h1>
 
   <div class="progress-container">
     <div class="progress-bar">
