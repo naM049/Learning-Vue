@@ -1,18 +1,21 @@
-# Todo List
+# Learning Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This repo contains some basic projects which I used to learn Vue. It contains 9 projects
+- Todo List
+- Random Quote Generator
+- Simple Calculator
+- Simple Accordion 
+- Simple Form Validation
+- Password Generator
+- Progress Steps
+- DadJ okes
+- Github Users Search
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
 ```sh
+git clone https://github.com/naM049/Learning-Vue.git
 npm install
 ```
 
